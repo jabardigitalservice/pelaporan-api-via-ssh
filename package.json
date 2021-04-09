@@ -1,0 +1,9 @@
+{
+  "name": "pelaporan-api-via-ssh",
+  "version": "1.0.0",
+  "description": "pelaporan api untuk koneksi ke database mongodb stagging atau production karena keterbatasan tool mongodb",
+  "main": "server.js",
+  "repository": "https://github.com/jabardigitalservice/pelaporan-api-via-ssh",
+  "author": "firmanjs",
+  "license": "MIT"
+}
